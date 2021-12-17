@@ -1,0 +1,54 @@
+{
+  "arch": "x86_64",
+  "build": "hfc679d8_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/hcc/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=4.9",
+    "libstdcxx-ng >=4.9"
+  ],
+  "extracted_package_dir": "/home/user/anaconda3/pkgs/autodock-4.2.6-hfc679d8_0",
+  "features": "",
+  "files": [
+    "bin/autodock4",
+    "bin/autogrid4"
+  ],
+  "fn": "autodock-4.2.6-hfc679d8_0.tar.bz2",
+  "license": "GPLv2",
+  "license_family": "GPL",
+  "link": {
+    "source": "/home/user/anaconda3/pkgs/autodock-4.2.6-hfc679d8_0",
+    "type": 1
+  },
+  "md5": "9b5618b35572e16403d5186da59cbfd3",
+  "name": "autodock",
+  "package_tarball_full_path": "/home/user/anaconda3/pkgs/autodock-4.2.6-hfc679d8_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/autodock4",
+        "path_type": "hardlink",
+        "sha256": "79abb56c91ea80ac16f6067356592a7a1faefd600d4b7d6083bcd7737c3ee443",
+        "sha256_in_prefix": "79abb56c91ea80ac16f6067356592a7a1faefd600d4b7d6083bcd7737c3ee443",
+        "size_in_bytes": 487924
+      },
+      {
+        "_path": "bin/autogrid4",
+        "path_type": "hardlink",
+        "sha256": "dd33371ac999f7d8773ae947a4d41bd5518fe59d5e29211551978d9c4e056872",
+        "sha256_in_prefix": "dd33371ac999f7d8773ae947a4d41bd5518fe59d5e29211551978d9c4e056872",
+        "size_in_bytes": 90457
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "linux",
+  "requested_spec": "autodock",
+  "size": 243501,
+  "subdir": "linux-64",
+  "timestamp": 1534369684055,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/hcc/linux-64/autodock-4.2.6-hfc679d8_0.tar.bz2",
+  "version": "4.2.6"
+}

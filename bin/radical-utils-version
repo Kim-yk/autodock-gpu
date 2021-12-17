@@ -1,0 +1,6 @@
+#!/home/user/anaconda3/envs/autodock/bin/python
+
+import radical.utils as ru
+
+print ru.version_detail
+

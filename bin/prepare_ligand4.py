@@ -1,0 +1,1 @@
+../MGLToolsPckgs/AutoDockTools/Utilities24/prepare_ligand4.py

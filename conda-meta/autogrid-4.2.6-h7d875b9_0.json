@@ -1,0 +1,45 @@
+{
+  "build": "h7d875b9_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "_openmp_mutex >=4.5",
+    "libgcc-ng >=9.3.0",
+    "libstdcxx-ng >=9.3.0"
+  ],
+  "extracted_package_dir": "/home/user/anaconda3/pkgs/autogrid-4.2.6-h7d875b9_0",
+  "features": "",
+  "files": [
+    "bin/autogrid4"
+  ],
+  "fn": "autogrid-4.2.6-h7d875b9_0.tar.bz2",
+  "license": "GPL-2.0-only",
+  "link": {
+    "source": "/home/user/anaconda3/pkgs/autogrid-4.2.6-h7d875b9_0",
+    "type": 1
+  },
+  "md5": "a8cea8f7fde94c64eb7b477ee396e3a5",
+  "name": "autogrid",
+  "package_tarball_full_path": "/home/user/anaconda3/pkgs/autogrid-4.2.6-h7d875b9_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/autogrid4",
+        "path_type": "hardlink",
+        "sha256": "266ba2829033fcbfc3707a2835e5e7ad81022366ac8cd0e732c605cdeb3635b6",
+        "sha256_in_prefix": "266ba2829033fcbfc3707a2835e5e7ad81022366ac8cd0e732c605cdeb3635b6",
+        "size_in_bytes": 92936
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "autogrid",
+  "sha256": "1d61d8ccb66a5e4fdf0baeafcd0985fff3406647ce0438cb255e9c4df57c9a0f",
+  "size": 49398,
+  "subdir": "linux-64",
+  "timestamp": 1620817411062,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/autogrid-4.2.6-h7d875b9_0.tar.bz2",
+  "version": "4.2.6"
+}

@@ -1,0 +1,5 @@
+#!/home/user/anaconda3/envs/autodock/bin/python
+
+import saga
+print saga.version_detail
+

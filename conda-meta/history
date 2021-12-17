@@ -1,0 +1,23 @@
+==> 2021-12-14 15:10:02 <==
+# cmd: /home/user/anaconda3/bin/conda create -n autodock
+# conda version: 4.7.12
+==> 2021-12-14 15:15:27 <==
+# cmd: /home/user/anaconda3/bin/conda install -c bioconda mgltools
+# conda version: 4.11.0
++bioconda/linux-64::mgltools-1.5.7-h9ee0642_1
+# update specs: ['mgltools']
+==> 2021-12-14 15:16:45 <==
+# cmd: /home/user/anaconda3/bin/conda install -c hcc autodock
+# conda version: 4.11.0
++defaults/linux-64::_libgcc_mutex-0.1-main
++defaults/linux-64::_openmp_mutex-4.5-1_gnu
++defaults/linux-64::libgcc-ng-9.3.0-h5101ec6_17
++defaults/linux-64::libgomp-9.3.0-h5101ec6_17
++defaults/linux-64::libstdcxx-ng-9.3.0-hd4cf53a_17
++hcc/linux-64::autodock-4.2.6-hfc679d8_0
+# update specs: ['autodock']
+==> 2021-12-14 15:27:49 <==
+# cmd: /home/user/anaconda3/bin/conda install -c bioconda autogrid
+# conda version: 4.11.0
++bioconda/linux-64::autogrid-4.2.6-h7d875b9_0
+# update specs: ['autogrid']
